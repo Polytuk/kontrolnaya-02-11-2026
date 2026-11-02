@@ -1,0 +1,22 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Important files required by ТЗ
+!corp_fleet.db
+!REPORT.md
+!REPORT.html
